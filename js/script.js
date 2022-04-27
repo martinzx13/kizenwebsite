@@ -48,22 +48,22 @@ if (windowwidth > 768) {
       src: 'https://github.com/martinzx13/kizenwebsite/blob/main/images/image%202.jpg?raw=true',
     },
     {
-      src: ' ',
+      src: 'https://github.com/martinzx13/kizenwebsite/blob/main/images/image%20japan.jpg?raw=true',
     },
     {
-      src: '',
+      src: 'https://github.com/martinzx13/kizenwebsite/blob/main/images/image2.jpg?raw=true',
     },
   ];
 } else {
   var responsiveImage = [
     {
-      src: '',
+      src: 'https://github.com/martinzx13/kizenwebsite/blob/main/images/image%202.jpg?raw=true',
     },
     {
-      src: '',
+      src: 'https://github.com/martinzx13/kizenwebsite/blob/main/images/image%20japan.jpg?raw=true',
     },
     {
-      src: ' ',
+      src: 'https://github.com/martinzx13/kizenwebsite/blob/main/images/image2.jpg?raw=true',
     },
   ];
 }
