@@ -45,7 +45,7 @@ var windowwidth =
 if (windowwidth > 768) {
   var responsiveImage = [
     {
-      src: 'https://images.unsplash.com/photo-1548113616-32c0de183d17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80',
+      src: 'https://github.com/martinzx13/kizenwebsite/blob/main/images/image%202.jpg?raw=true',
     },
     {
       src: ' https://images.unsplash.com/photo-1516069677018-378515003435?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=929&q=80',
